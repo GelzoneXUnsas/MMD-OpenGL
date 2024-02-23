@@ -1,0 +1,1 @@
+./opengl_mmd_viewer -model ../../mmd_OpenGL/model/TDA_Miku_Replace_WhiteBlueRose.pmx -vmd ../../mmd_OpenGL/Gokuraku_Jodo/Gokuraku_Jodo.vmd -vmd ../../mmd_OpenGL/Gokuraku_Jodo/Camera.vmd -transparent
