@@ -2,6 +2,22 @@
 ![](https://github.com/GelzoneXUnsas/MMD-OpenGL/blob/main/saba/mmd_OpenGL/cover.png)
 An MMD (MikuMikuDance) player using OpenGL to provide a platform for reading model and animation files, and displaying high-quality animated content. The MMD player supports various advanced techniques such as camera path, deforming, facial blending, and skinning animation.
 
+## Run
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/GelzoneXUnsas/MMD-OpenGL.git
+
+2. **Make the Build Script Executable and Run It:**
+   ```bash
+   chmod +x build.sh
+   ./build.sh
+
+4. **Copy the Text from Miku.txt:**
+   - Open Miku.txt and copy its contents.
+6. **Run in Terminal:**
+   - Navigate to the saba/build/mmd_OpenGL folder in your terminal.
+   - Paste the copied text into the terminal and press enter.
+
 ## Overview
 ### MMD
 MikuMikuDance (MMD) is free 3D animation software for creating and animating virtual characters, focusing on the popular Vocaloid character using pre-existing models, motion data, and music.
